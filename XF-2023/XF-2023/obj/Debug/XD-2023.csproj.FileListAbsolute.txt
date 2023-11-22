@@ -1,0 +1,8 @@
+C:\10D\imp\XD-2023\XD-2023\bin\Debug\XD-2023.exe.config
+C:\10D\imp\XD-2023\XD-2023\bin\Debug\XD-2023.exe
+C:\10D\imp\XD-2023\XD-2023\bin\Debug\XD-2023.pdb
+C:\10D\imp\XD-2023\XD-2023\obj\Debug\XD-2023.csproj.AssemblyReference.cache
+C:\10D\imp\XD-2023\XD-2023\obj\Debug\XD-2023.csproj.SuggestedBindingRedirects.cache
+C:\10D\imp\XD-2023\XD-2023\obj\Debug\XD-2023.csproj.CoreCompileInputs.cache
+C:\10D\imp\XD-2023\XD-2023\obj\Debug\XD-2023.exe
+C:\10D\imp\XD-2023\XD-2023\obj\Debug\XD-2023.pdb
